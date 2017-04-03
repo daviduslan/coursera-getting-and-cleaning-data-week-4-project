@@ -48,7 +48,7 @@ This section lists and describes the data available in the final output file: ti
 * `LAYING` (6): subject was laying down during the test
 
 ## Measurements
-These are the final resulting column names. For more info on each measurement, please refer to the Source Data section above and see details on the original data. 
+These are the final resulting column names and what they measured.
 
 * tBodyAccMeanX - Mean linear acceleration in the X direciton (g)
 * tBodyAccMeanY - Mean linear acceleration in the Y direction (g)
