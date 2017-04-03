@@ -21,6 +21,7 @@ Source data files:
 - x_test.txt
 - y_test.txt
 
+## Steps taken to transform data
 1. Load activity labels and features for manipulation
 2. Create vector to allow for extracting only the data on mean and standard deviation and to clean up the variable names 
 3. Load all the test and train datasets into a single vector to prep for merging into a single dataframe
