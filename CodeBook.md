@@ -40,12 +40,12 @@ This section lists and describes the data available in the final output file: ti
 
 ## Activity Labels
 
-* `WALKING` (value `1`): subject was walking during the test
-* `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
-* `WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test
-* `SITTING` (value `4`): subject was sitting during the test
-* `STANDING` (value `5`): subject was standing during the test
-* `LAYING` (value `6`): subject was laying down during the test
+* `WALKING` (1): subject was walking during the test
+* `WALKING_UPSTAIRS` (2): subject was walking up a staircase during the test
+* `WALKING_DOWNSTAIRS` (3): subject was walking down a staircase during the test
+* `SITTING` (4): subject was sitting during the test
+* `STANDING` (5): subject was standing during the test
+* `LAYING` (6): subject was laying down during the test
 
 ## Measurements
 These are the final resulting column names. For more info on each measurement, please refer to the Source Data section above and see details on the original data. 
