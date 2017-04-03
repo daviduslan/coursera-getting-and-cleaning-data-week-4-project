@@ -2,4 +2,6 @@
 
 This is the final project for the coursera course "Getting and Cleaning Data". Per the assignment instructions, the file run_analysis.R does the following when run locally:
 
-1. test
+1. Downloads the required files if they don't already exist in the working directory.
+2. Loads activity labels and features for manipulation
+3. 
